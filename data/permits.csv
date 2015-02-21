@@ -1,0 +1,19 @@
+Row Labels,India,USA,Pakistan,Israel,China,Malaysia,Brazil,Sudan,Philippines,Canada
+Agriculture and Fisheries,0,2,4,null,1,null,23,null,2,null
+Catering,20,4,27,1,45,39,3,null,6,2
+Construction,2,10,null,null,1,null,1,null,null,null
+Domestic,null,null,null,null,2,null,null,null,6,null
+Education,6,26,8,1,5,2,1,1,null,4
+Entertainment,1,2,null,1,null,null,2,null,1,1
+Financial Services,86,67,22,3,27,4,2,null,22,8
+Government,null,2,null,null,0,null,null,null,null,null
+Healthcare,317,56,396,1,5,117,1,120,38,63
+Information Technology,1084,195,23,211,99,5,101,3,18,23
+Legal Services,null,2,null,null,null,null,null,null,null,null
+Manufacturing,42,122,3,26,33,5,7,1,6,8
+Research,8,5,1,2,1,null,null,null,1,2
+Retail,17,8,4,null,3,0,6,null,1,2
+Services,72,173,16,30,31,5,19,null,20,7
+Sport,1,8,3,null,null,null,null,null,null,null
+Tourism,1,1,null,null,0,null,null,null,null,null
+Transport,0,2,null,null,null,null,1,null,1,null
